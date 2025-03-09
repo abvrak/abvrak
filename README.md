@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,github,git,html,css,bootstrap)](https://skillicons.dev)
 <!--
 **abvrak/abvrak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
