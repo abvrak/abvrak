@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 <h1 align="center"> Hey there! 👋 </h1>
-I am a second-year Geoinformatics student at Maria Curie-Skłodowska University in Lublin, with a strong passion for exploring new technologies. I always strive to pursue my own projects and develop my passions further. In my free time, I love playing video games, working out at the gym, reading reportage literature, and enjoying playing the guitar (mainly rock). I am always eager to discover new solutions and take on new challenges.
+I am a second-year Geoinformatics student at Maria Curie-Skłodowska University in Lublin, with a strong passion for exploring new technologies. I always strive to pursue my own projects and develop my passions further. In my free time, I love playing video games, working out at the gym, reading reportage literature, and enjoying playing the guitar (mainly rock). I am always eager to discover new solutions and take on new challenges. <br><br><br><br><br>
+
 
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=py,java,js,github,git,bash,html,css,django,bootstrap,docker,latex,linux,sqlite,autocad)](https://skillicons.dev)
