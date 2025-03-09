@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hey there! 👋
+I am a second-year Geoinformatics student at Maria Curie-Skłodowska University in Lublin, with a strong passion for exploring new technologies. I always strive to pursue my own projects and develop my passions further. In my free time, I love playing video games, working out at the gym, reading reportage literature, and enjoying playing the guitar (mainly rock). I am always eager to discover new solutions and take on new challenges.
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=py,java,js,github,git,bash,html,css,django,bootstrap,docker,latex,linux,sqlite,autocad)](https://skillicons.dev)
 <!--
